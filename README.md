@@ -15,7 +15,7 @@
 ---
 
 ## 📸 Dashboard Preview  
-![Coca-Cola Dashboard](https://github.com/yourusername/yourrepo/blob/main/dashboard.png)
+![Coca-Cola Dashboard](https://github.com/kedarprathamesh/Coca-Cola-Retailer-Sales-Profit-Dashboard/blob/main/Coca-Cola%20Dashboard%20snapshot.png)
 
 ---
 
