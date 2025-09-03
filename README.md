@@ -11,3 +11,13 @@
   - Strongest sales in **Q3 2023 (~$2.8M)** with highest operating profit margin (~0.43).  
   - Sales dip in **Q4 2022 (~$0.36M)** showing seasonal fluctuations.  
 - **Overall Growth**: Sales increased from **$2.42M (2022)** to **$9.59M (2023)**, achieving ~71% variance improvement.  
+
+---
+
+## 📸 Dashboard Preview  
+![Coca-Cola Dashboard](https://github.com/yourusername/yourrepo/blob/main/dashboard.png)
+
+---
+
+## 🔗 Live Dashboard  
+[Click here to view the live dashboard](https://1drv.ms/x/c/88c334b278e9588c/EWo7OrN4J6pIlxmB3ZvF0DwBBOwWjowcwdQfyZvQePKbvw?e=Pcyj3x)
